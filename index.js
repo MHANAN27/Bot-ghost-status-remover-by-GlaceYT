@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching HEMZO","Watching Errors"];
+const statusMessages = ["Watching HEMZO","Watching Error"];
 
 
 let currentIndex = 0;
